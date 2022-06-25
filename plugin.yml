@@ -1,0 +1,6 @@
+name: redirect-legacy-commands
+main: com.pb.legacycommands.RedirectLegacyCommands
+version: 1.00
+api-version: 1.13
+depend: []
+commands:
